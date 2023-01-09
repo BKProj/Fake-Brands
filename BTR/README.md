@@ -8,7 +8,7 @@ BTR Makes better mobiles then RPd or The PixelPhones
 
   [Logos]()
   |
-  [Colors](https://github.com/bnk-trolling-group/fake-brands/tree/main/btr/colors)
+  [Colors](https://github.com/BNK-Trolling-Group/fake-brands/tree/main/BTR/Colors)
 
 ### Logos
 ---
