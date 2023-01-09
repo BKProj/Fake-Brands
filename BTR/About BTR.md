@@ -19,6 +19,7 @@ BTR Makes better mobiles then RPd or The PixelPhones
   <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20Black.png" width="128px">
   <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20Black%20%26%20Ambience.png" width="128px">
   <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20Black%20%26%20Ambience%20with%20Background.png" width="128px">
+
   
 ### Colors
 #### Dark
