@@ -15,21 +15,21 @@ ShatootTV/شاتوت تیوی in English is MulberryTV
 #### Transparent
 <div align="center">
     
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimplrTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleTransparent.png" width="128px">
   
 #### White
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleWhiteTransparent.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleWhite.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleWhite2.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleLightTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleLight.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleLight2.png" width="128px">
 
 #### Black
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleBlackTransparent.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleBlack.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleBlack2.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleDarkTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleDark.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootSimpleDark2.png" width="128px">
   
   ### Full Logos
 ---
@@ -41,15 +41,15 @@ ShatootTV/شاتوت تیوی in English is MulberryTV
 #### White
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullWhiteTransparent.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullWhite.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullWhite2.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullLightTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullLight.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullLight2.png" width="128px">
 
 #### Black
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullBlackTransparent.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullBlack.png" width="128px">
-  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullBlack2.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullDarkTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullDark.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/Shatoot/ShatootFullDark2.png" width="128px">
 
 
