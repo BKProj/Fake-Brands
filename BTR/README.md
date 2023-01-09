@@ -15,15 +15,15 @@ BTR Makes better mobiles then RPd or The PixelPhones
 #### White
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20White.png" width="128px">
-  <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20White%20%26%20Ambience.png" width="128px">
-  <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20White%20%26%20Ambience%20with%20Background.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRWhiteTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRWhite.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRWhite2.png" width="128px">
 
 #### Black
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20Black.png" width="128px">
-  <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20Black%20%26%20Ambience.png" width="128px">
-  <img src="https://raw.githubusercontent.com/auroraapp/branding/main/logos/Single%20Logo%20-%20Black%20%26%20Ambience%20with%20Background.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRBlackTransparent.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRBlack.png" width="128px">
+  <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRBlack2.png" width="128px">
 
 
