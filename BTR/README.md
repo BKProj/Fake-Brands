@@ -13,6 +13,8 @@ BTR Makes better mobiles then RPd or The PixelPhones
 ### Logos
 ---
 #### Transparent
+<div align="center">
+    
   <img src="https://raw.githubusercontent.com/BNK-Trolling-Group/fake-brands/main/BTR/BTRTransparent.png" width="128px">
   
 #### White
